@@ -1,0 +1,39 @@
+.search
+{
+    padding: 5% 0;
+    background-color: #c1e0e4;
+}
+
+.search .scan .searchterm
+{ 
+    width: 80%;
+    border: 1px solid #fff;
+    padding: 10px;
+    outline: none;
+    color: #6b6b6b;
+}
+
+.search .input-btn
+{
+    position: absolute;
+    height: 46px;
+    border: 0px solid #00B4CC;
+    background: #2bb673;
+    color: white;
+    cursor: pointer;
+    padding: 12px;
+}
+
+.search .input-btn i
+{ 
+    font-size: 16px;
+    padding: 0 10px;
+    color: #f1f1f1;
+}
+
+.search .input-btn i:hover
+{
+    color: #111;
+    opacity: 0.5s;
+    transition: 0.5s;
+}
